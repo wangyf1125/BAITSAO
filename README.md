@@ -43,7 +43,7 @@ pip install pytorch-tabnet
 Optional: To reproduce our work based on BERT, please install transformer:
 
 ```
-pip install transformer
+pip install transformers
 ```
 
 Optional: To reproduce our work based on [linearMTL](https://github.com/tohein/linearMTL), please use R and install linearMTL:
@@ -94,4 +94,5 @@ We refer codes from [UW](https://github.com/Mikoto10032/AutomaticWeightedLoss), 
 	eprint = {https://www.biorxiv.org/content/early/2024/04/12/2024.04.08.588634.full.pdf},
 	journal = {bioRxiv}
 }
+
 ```
